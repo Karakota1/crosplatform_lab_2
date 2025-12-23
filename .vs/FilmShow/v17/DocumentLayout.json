@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\Desktop\\CrossPlatform\\Books_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6948A8B5-876A-495B-B4CE-3FA952C5BFE2}|Books_2\\Film.csproj|c:\\users\\1\\desktop\\crossplatform\\books_2\\books_2\\services\\performanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6948A8B5-876A-495B-B4CE-3FA952C5BFE2}|Books_2\\Film.csproj|solutionrelative:books_2\\services\\performanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6948A8B5-876A-495B-B4CE-3FA952C5BFE2}|Books_2\\Film.csproj|c:\\users\\1\\desktop\\crossplatform\\books_2\\books_2\\controllers\\performancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6948A8B5-876A-495B-B4CE-3FA952C5BFE2}|Books_2\\Film.csproj|solutionrelative:books_2\\controllers\\performancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6948A8B5-876A-495B-B4CE-3FA952C5BFE2}|Books_2\\Film.csproj|c:\\users\\1\\desktop\\crossplatform\\books_2\\books_2\\migrations\\20251208231408_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6948A8B5-876A-495B-B4CE-3FA952C5BFE2}|Books_2\\Film.csproj|solutionrelative:books_2\\migrations\\20251208231408_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6948A8B5-876A-495B-B4CE-3FA952C5BFE2}|Books_2\\Film.csproj|c:\\users\\1\\desktop\\crossplatform\\books_2\\books_2\\contracts\\performanceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6948A8B5-876A-495B-B4CE-3FA952C5BFE2}|Books_2\\Film.csproj|solutionrelative:books_2\\contracts\\performanceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6948A8B5-876A-495B-B4CE-3FA952C5BFE2}|Books_2\\Books_2.csproj|c:\\users\\1\\desktop\\crossplatform\\books_2\\books_2\\models\\performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6948A8B5-876A-495B-B4CE-3FA952C5BFE2}|Books_2\\Books_2.csproj|solutionrelative:books_2\\models\\performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6948A8B5-876A-495B-B4CE-3FA952C5BFE2}|Books_2\\Film.csproj|c:\\users\\1\\desktop\\crossplatform\\books_2\\books_2\\migrations\\20251208231408_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6948A8B5-876A-495B-B4CE-3FA952C5BFE2}|Books_2\\Film.csproj|solutionrelative:books_2\\migrations\\20251208231408_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6948A8B5-876A-495B-B4CE-3FA952C5BFE2}|Books_2\\Film.csproj|c:\\users\\1\\desktop\\crossplatform\\books_2\\books_2\\migrations\\20251210080842_adddurationtoperformance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6948A8B5-876A-495B-B4CE-3FA952C5BFE2}|Books_2\\Film.csproj|solutionrelative:books_2\\migrations\\20251210080842_adddurationtoperformance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6948A8B5-876A-495B-B4CE-3FA952C5BFE2}|Books_2\\Film.csproj|c:\\users\\1\\desktop\\crossplatform\\books_2\\books_2\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6948A8B5-876A-495B-B4CE-3FA952C5BFE2}|Books_2\\Film.csproj|solutionrelative:books_2\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6948A8B5-876A-495B-B4CE-3FA952C5BFE2}|Books_2\\Film.csproj|c:\\users\\1\\desktop\\crossplatform\\books_2\\books_2\\contracts\\performancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6948A8B5-876A-495B-B4CE-3FA952C5BFE2}|Books_2\\Film.csproj|solutionrelative:books_2\\contracts\\performancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20251208231408_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\CrossPlatform\\Books_2\\Books_2\\Migrations\\20251208231408_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "Books_2\\Migrations\\20251208231408_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\CrossPlatform\\Books_2\\Books_2\\Migrations\\20251208231408_InitialCreate.Designer.cs",
+              "RelativeToolTip": "Books_2\\Migrations\\20251208231408_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:49:36.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Performance.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\CrossPlatform\\Books_2\\Books_2\\Models\\Performance.cs",
+              "RelativeDocumentMoniker": "Books_2\\Models\\Performance.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\CrossPlatform\\Books_2\\Books_2\\Models\\Performance.cs",
+              "RelativeToolTip": "Books_2\\Models\\Performance.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAWwBkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:18:28.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PerformanceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\CrossPlatform\\Books_2\\Books_2\\Contracts\\PerformanceResponse.cs",
+              "RelativeDocumentMoniker": "Books_2\\Contracts\\PerformanceResponse.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\CrossPlatform\\Books_2\\Books_2\\Contracts\\PerformanceResponse.cs",
+              "RelativeToolTip": "Books_2\\Contracts\\PerformanceResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:25:40.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PerformancesController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\CrossPlatform\\Books_2\\Books_2\\Controllers\\PerformancesController.cs",
+              "RelativeDocumentMoniker": "Books_2\\Controllers\\PerformancesController.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\CrossPlatform\\Books_2\\Books_2\\Controllers\\PerformancesController.cs",
+              "RelativeToolTip": "Books_2\\Controllers\\PerformancesController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAADwv0sAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:21:23.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PerformanceService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\CrossPlatform\\Books_2\\Books_2\\Services\\PerformanceService.cs",
+              "RelativeDocumentMoniker": "Books_2\\Services\\PerformanceService.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\CrossPlatform\\Books_2\\Books_2\\Services\\PerformanceService.cs",
+              "RelativeToolTip": "Books_2\\Services\\PerformanceService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAewCEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:49:43.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251208231408_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\CrossPlatform\\Books_2\\Books_2\\Migrations\\20251208231408_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Books_2\\Migrations\\20251208231408_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\CrossPlatform\\Books_2\\Books_2\\Migrations\\20251208231408_InitialCreate.cs",
+              "RelativeToolTip": "Books_2\\Migrations\\20251208231408_InitialCreate.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:49:24.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251210080842_AddDurationToPerformance.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\CrossPlatform\\Books_2\\Books_2\\Migrations\\20251210080842_AddDurationToPerformance.Designer.cs",
+              "RelativeDocumentMoniker": "Books_2\\Migrations\\20251210080842_AddDurationToPerformance.Designer.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\CrossPlatform\\Books_2\\Books_2\\Migrations\\20251210080842_AddDurationToPerformance.Designer.cs",
+              "RelativeToolTip": "Books_2\\Migrations\\20251210080842_AddDurationToPerformance.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA8wBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:49:38.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\CrossPlatform\\Books_2\\Books_2\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Books_2\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\CrossPlatform\\Books_2\\Books_2\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Books_2\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAnwBcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:49:39.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PerformanceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\CrossPlatform\\Books_2\\Books_2\\Contracts\\PerformanceRequest.cs",
+              "RelativeDocumentMoniker": "Books_2\\Contracts\\PerformanceRequest.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\CrossPlatform\\Books_2\\Books_2\\Contracts\\PerformanceRequest.cs",
+              "RelativeToolTip": "Books_2\\Contracts\\PerformanceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:49:42.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@Lavrova_LR2_HostAddress = http://localhost:5260
+
+GET {{Lavrova_LR2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
